@@ -11,6 +11,7 @@ More information available in the **[WIKI](http://ingran.es:8081/rdcelis/balzac/
 
 ### OpenWRT README
 
+```
 This is the buildsystem for the OpenWrt Linux distribution.
 
 Please use "make menuconfig" to configure your appreciated
@@ -44,5 +45,6 @@ the lack of case sensitiveness in the file system.
 Sunshine!
 	Your OpenWrt Project
 	http://openwrt.org
+```
 
 
