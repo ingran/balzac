@@ -5,6 +5,12 @@
 
 Teltonika RUT-9XX Firmware Fork
 
+### Upstream Project
+
+- [http://teltonika.lt/es/gpl](http://teltonika.lt/es/gpl)
+
+Current base version based on **[R_00.02.700](http://teltonika.lt/main/wp-content/uploads/2016/10/GPL_source_RUT9XX_R_00.02.700.zip)**
+
 ### **Documentation**
 
 More information available in the **[WIKI](http://ingran.es:8081/rdcelis/balzac/wikis/home)**.
