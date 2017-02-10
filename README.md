@@ -13,7 +13,7 @@ Current base version based on **[R_00.02.700](http://teltonika.lt/main/wp-conten
 
 ### **Documentation**
 
-More information available in the **[WIKI](http://ingran.es:8081/rdcelis/balzac/wikis/home)**.
+More information available in the **[WIKI](https://github.com/ingran/balzac/wiki)**. (Coming soon...)
 
 ### OpenWRT README
 
