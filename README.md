@@ -1,6 +1,8 @@
 # Balzac
 ## Copyright © 2017 Ingran Engineering ###
 
+[![Build Status](https://travis-ci.org/ingran/balzac.svg?branch=master)](https://travis-ci.org/ingran/balzac)
+
 ![logo](https://lh6.googleusercontent.com/-GFlTiWQvk4s/AAAAAAAAAAI/AAAAAAAAACA/mLPR8EvRZdI/photo.jpg)
 
 Teltonika RUT-9XX Firmware Fork
