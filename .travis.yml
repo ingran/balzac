@@ -2,8 +2,8 @@ language: c
 script: make -j4
 deploy:
   provider: releases
-  api_key: eb7af98b62fc851df9f4024bfa2e5a4b50defe52
+  api_key: "eb7af98b62fc851df9f4024bfa2e5a4b50defe52"
   file: "bin/ar71xx/tltFws/*_WEBUI.bin"
   skip_cleanup: true
   on:
-    branch: travis_test
+    tags: true
