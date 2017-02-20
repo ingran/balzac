@@ -2,7 +2,7 @@ language: c
 script: make -j4
 deploy:
   provider: releases
-  api_key: "62ed96423fac2b5035bac22412def7855e287fa7"
+  api_key: "3f336ed1e6755a5b6f2906a1d10e27999f378f6b"
   file: "bin/ar71xx/tltFws/*_WEBUI.bin"
   skip_cleanup: true
   on:
